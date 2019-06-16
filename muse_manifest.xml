@@ -1,0 +1,217 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="davallree.github.io" resolutions="1x,2x" timestamp="1481299250515">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="gallery.css" crc="356459622" ref="gallery"/>
+    <file name="__.css" crc="4189104240" ref="·—"/>
+    <file name="_____6.css" crc="204001910" ref="_—.·•"/>
+    <file name="_.css" crc="4166732274" ref="—"/>
+    <file name="_____3.css" crc="3879059893" ref="•.—_)"/>
+    <file name="_____1.css" crc="487730267" ref="_·•.–"/>
+    <file name="________.css" crc="360678597" ref="—_•–.•.·"/>
+    <file name="____-.css" crc="12154454" ref="_—.•-"/>
+    <file name="__-_.css" crc="157245068" ref="·.-—"/>
+    <file name="the-below.css" crc="505111431" ref="the-below"/>
+    <file name="_____4.css" crc="110861734" ref="(•_·–"/>
+    <file name="_____2.css" crc="174150683" ref="_—•.–"/>
+    <file name="thin-light.css" crc="4077127220" ref="thin-light"/>
+    <file name="_____5.css" crc="299844878" ref="•.)_—"/>
+    <file name="-_____.css" crc="4094140921" ref="-..—.·"/>
+    <file name="race-forward.css" crc="4210417987" ref="race-forward"/>
+    <file name="dedication.css" crc="237379975" ref="dedication"/>
+    <file name="_-__-_.css" crc="3799495910" ref="•-.(-_"/>
+    <file name="_____.css" crc="135237750" ref="•)_·–"/>
+    <file name="index.css" crc="3810484155" ref="index"/>
+    <file name="nomq_index.css" crc="4024273225" ref="index"/>
+    <file name="___.css" crc="427972681" ref="·_—"/>
+    <file name="______.css" crc="491662423" ref=")–._·•"/>
+    <file name="____-_.css" crc="285972214" ref="·—.•-·"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dedication:·_—:·—:_·•.–:·.-—:_—•.–:-..—.·:•)_·–:·—.•-·:•.—_):_—.•-:(•_·–:•.)_—:•-.(-_:)–._·•:_—.·•:—_•–.•.·:the-below:thin-light:race-forward:—:gallery"/>
+    <file name="museutils.js" crc="163421577" ref="index:dedication:·_—:·—:_·•.–:·.-—:_—•.–:-..—.·:•)_·–:·—.•-·:•.—_):_—.•-:(•_·–:•.)_—:•-.(-_:)–._·•:_—.·•:—_•–.•.·:the-below:thin-light:race-forward:—:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:dedication:·_—:·—:_·•.–:·.-—:_—•.–:-..—.·:•)_·–:·—.•-·:•.—_):_—.•-:(•_·–:•.)_—:•-.(-_:)–._·•:_—.·•:—_•–.•.·:the-below:thin-light:race-forward:—:gallery"/>
+    <file name="museconfig.js" crc="168988563" ref="index:dedication:·_—:·—:_·•.–:·.-—:_—•.–:-..—.·:•)_·–:·—.•-·:•.—_):_—.•-:(•_·–:•.)_—:•-.(-_:)–._·•:_—.·•:—_•–.•.·:the-below:thin-light:race-forward:—:gallery"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:dedication:·_—:·—:_·•.–:·.-—:_—•.–:-..—.·:•)_·–:·—.•-·:•.—_):_—.•-:(•_·–:•.)_—:•-.(-_:)–._·•:_—.·•:—_•–.•.·:the-below:thin-light:race-forward:—:gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="title_movie_bileh.gif" crc="164854526" seo="true" ref="index"/>
+    <file name="title_movie_bileh_2x.gif" crc="164854526" seo="true" ref="index"/>
+    <file name="begin_button.png" crc="50596809" seo="true" ref="index"/>
+    <file name="begin_button_2x.png" crc="409480402" seo="true" ref="index"/>
+    <file name="begin_button242x67.png" crc="3815518588" seo="true" ref="index"/>
+    <file name="begin_button242x67_2x.png" crc="3840095281" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dedication_bileh.gif" crc="3897543559" seo="true" ref="dedication"/>
+    <file name="dedication_bileh_2x.gif" crc="3897543559" seo="true" ref="dedication"/>
+    <file name="continue_button.png" crc="48828419" seo="true" ref="the-below:thin-light:race-forward"/>
+    <file name="continue_button_2x.png" crc="320732242" seo="true" ref="the-below:thin-light:race-forward"/>
+    <file name="message-1.gif" crc="345379361" seo="true" ref="·_—"/>
+    <file name="message-1_2x.gif" crc="345379361" seo="true" ref="·_—"/>
+    <file name="nutton.png" crc="4177271327" seo="true" ref="·_—:·—:_·•.–:·.-—:_—•.–:-..—.·:•)_·–:·—.•-·:•.—_):_—.•-:(•_·–:•.)_—:•-.(-_:)–._·•:_—.·•:—_•–.•.·"/>
+    <file name="nutton_2x.png" crc="3933954417" seo="true" ref="·_—:·—:_·•.–:·.-—:_—•.–:-..—.·:•)_·–:·—.•-·:•.—_):_—.•-:(•_·–:•.)_—:•-.(-_:)–._·•:_—.·•:—_•–.•.·"/>
+    <file name="working_designs_website-09.png" crc="118462624" seo="true" ref="·_—"/>
+    <file name="working_designs_website-09_2x.png" crc="4198242182" seo="true" ref="·_—"/>
+    <file name="20161103_composition-crop-u1333.png" crc="3824608170" ref="·_—"/>
+    <file name="20161103_composition-crop-u1333_2x.png" crc="114949078" ref="·_—"/>
+    <file name="message-2.gif" crc="4280244585" seo="true" ref="·—"/>
+    <file name="message-2_2x.gif" crc="4280244585" seo="true" ref="·—"/>
+    <file name="working_designs_website-10.png" crc="3906634792" seo="true" ref="·—"/>
+    <file name="working_designs_website-10_2x.png" crc="242355095" seo="true" ref="·—"/>
+    <file name="20161105_composition-crop-u1783.png" crc="176314343" ref="·—"/>
+    <file name="20161105_composition-crop-u1783_2x.png" crc="229990037" ref="·—"/>
+    <file name="message-3.gif" crc="527799862" seo="true" ref="_·•.–"/>
+    <file name="message-3_2x.gif" crc="527799862" seo="true" ref="_·•.–"/>
+    <file name="working_designs_website-11.png" crc="137297191" seo="true" ref="_·•.–"/>
+    <file name="working_designs_website-11_2x.png" crc="137297191" seo="true" ref="_·•.–"/>
+    <file name="20161106_composition-crop-u1810.png" crc="205935475" ref="_·•.–"/>
+    <file name="20161106_composition-crop-u1810_2x.png" crc="261879020" ref="_·•.–"/>
+    <file name="message-4.gif" crc="3877469504" seo="true" ref="·.-—"/>
+    <file name="message-4_2x.gif" crc="3877469504" seo="true" ref="·.-—"/>
+    <file name="working_designs_website-12.png" crc="3861057699" seo="true" ref="·.-—"/>
+    <file name="working_designs_website-12_2x.png" crc="3861057699" seo="true" ref="·.-—"/>
+    <file name="20161107_composition-crop-u1867.png" crc="3964637283" ref="·.-—"/>
+    <file name="20161107_composition-crop-u1867_2x.png" crc="11525798" ref="·.-—"/>
+    <file name="message-5.gif" crc="51757383" seo="true" ref="_—•.–"/>
+    <file name="message-5_2x.gif" crc="51757383" seo="true" ref="_—•.–"/>
+    <file name="working_designs_website-13.png" crc="414239536" seo="true" ref="_—•.–"/>
+    <file name="working_designs_website-13_2x.png" crc="414239536" seo="true" ref="_—•.–"/>
+    <file name="20161109_composition-crop-u1909.png" crc="457580004" ref="_—•.–"/>
+    <file name="20161109_composition-crop-u1909_2x.png" crc="3865949654" ref="_—•.–"/>
+    <file name="message-6.gif" crc="162148388" seo="true" ref="-..—.·"/>
+    <file name="message-6_2x.gif" crc="162148388" seo="true" ref="-..—.·"/>
+    <file name="working_designs_website-14.png" crc="417086038" seo="true" ref="-..—.·"/>
+    <file name="working_designs_website-14_2x.png" crc="417086038" seo="true" ref="-..—.·"/>
+    <file name="20161110_composition-crop-u1989.png" crc="4037018714" ref="-..—.·"/>
+    <file name="20161110_composition-crop-u1989_2x.png" crc="53228894" ref="-..—.·"/>
+    <file name="message-7.gif" crc="4233239509" seo="true" ref="•)_·–"/>
+    <file name="message-7_2x.gif" crc="4233239509" seo="true" ref="•)_·–"/>
+    <file name="working_designs_website-15.png" crc="3972241594" seo="true" ref="•)_·–"/>
+    <file name="working_designs_website-15_2x.png" crc="464814963" seo="true" ref="•)_·–"/>
+    <file name="20161111_composition-crop-u2031.png" crc="3758776315" ref="•)_·–"/>
+    <file name="20161111_composition-crop-u2031_2x.png" crc="3878470967" ref="•)_·–"/>
+    <file name="message-8.gif" crc="49073645" seo="true" ref="·—.•-·"/>
+    <file name="message-8_2x.gif" crc="49073645" seo="true" ref="·—.•-·"/>
+    <file name="working_designs_website-16.png" crc="305617141" seo="true" ref="·—.•-·"/>
+    <file name="working_designs_website-16_2x.png" crc="305617141" seo="true" ref="·—.•-·"/>
+    <file name="20161114_composition-crop-u2097.png" crc="4121749725" ref="·—.•-·"/>
+    <file name="20161114_composition-crop-u2097_2x.png" crc="4222290167" ref="·—.•-·"/>
+    <file name="message-9.gif" crc="239074521" seo="true" ref="•.—_)"/>
+    <file name="message-9_2x.gif" crc="239074521" seo="true" ref="•.—_)"/>
+    <file name="working_designs_website-17.png" crc="322298857" seo="true" ref="•.—_)"/>
+    <file name="working_designs_website-17_2x.png" crc="478830090" seo="true" ref="•.—_)"/>
+    <file name="20161115_composition-crop-u2149.png" crc="3956004212" ref="•.—_)"/>
+    <file name="20161115_composition-crop-u2149_2x.png" crc="3885609323" ref="•.—_)"/>
+    <file name="message-10.gif" crc="3928572537" seo="true" ref="_—.•-"/>
+    <file name="message-10_2x.gif" crc="3928572537" seo="true" ref="_—.•-"/>
+    <file name="working_designs_website-18.png" crc="4143728237" seo="true" ref="_—.•-"/>
+    <file name="working_designs_website-18_2x.png" crc="4143728237" seo="true" ref="_—.•-"/>
+    <file name="20161116_composition-crop-u2190.png" crc="4040502165" ref="_—.•-"/>
+    <file name="20161116_composition-crop-u2190_2x.png" crc="139855414" ref="_—.•-"/>
+    <file name="message-11.gif" crc="3939202351" seo="true" ref="(•_·–"/>
+    <file name="message-11_2x.gif" crc="3939202351" seo="true" ref="(•_·–"/>
+    <file name="working_designs_website-19.png" crc="3950152388" seo="true" ref="(•_·–"/>
+    <file name="working_designs_website-19_2x.png" crc="4043013179" seo="true" ref="(•_·–"/>
+    <file name="20161118_composition-crop-u2247.png" crc="3908850451" ref="(•_·–"/>
+    <file name="20161118_composition-crop-u2247_2x.png" crc="3770129187" ref="(•_·–"/>
+    <file name="message-12.gif" crc="264741452" seo="true" ref="•.)_—"/>
+    <file name="message-12_2x.gif" crc="264741452" seo="true" ref="•.)_—"/>
+    <file name="working_designs_website-20.png" crc="3870880374" seo="true" ref="•.)_—"/>
+    <file name="working_designs_website-20_2x.png" crc="3982715001" seo="true" ref="•.)_—"/>
+    <file name="20161121_composition-crop-u2301.png" crc="100147321" ref="•.)_—"/>
+    <file name="20161121_composition-crop-u2301_2x.png" crc="4215143526" ref="•.)_—"/>
+    <file name="message-13.gif" crc="475261067" seo="true" ref="•-.(-_"/>
+    <file name="message-13_2x.gif" crc="475261067" seo="true" ref="•-.(-_"/>
+    <file name="working_designs_website-21.png" crc="402733459" seo="true" ref="•-.(-_"/>
+    <file name="working_designs_website-21_2x.png" crc="1242112" seo="true" ref="•-.(-_"/>
+    <file name="20161122_composition-crop-u2342.png" crc="503403530" ref="•-.(-_"/>
+    <file name="20161122_composition-crop-u2342_2x.png" crc="3916793684" ref="•-.(-_"/>
+    <file name="message-14.gif" crc="370427590" seo="true" ref=")–._·•"/>
+    <file name="message-14_2x.gif" crc="370427590" seo="true" ref=")–._·•"/>
+    <file name="working_designs_website-23.png" crc="514978037" seo="true" ref=")–._·•"/>
+    <file name="working_designs_website-23_2x.png" crc="3966093485" seo="true" ref=")–._·•"/>
+    <file name="20161123_composition-crop-u2439.png" crc="154323559" ref=")–._·•"/>
+    <file name="20161123_composition-crop-u2439_2x.png" crc="4125272330" ref=")–._·•"/>
+    <file name="message-16.gif" crc="357145513" seo="true" ref="_—.·•"/>
+    <file name="message-16_2x.gif" crc="357145513" seo="true" ref="_—.·•"/>
+    <file name="working_designs_website-24.png" crc="44008852" seo="true" ref="_—.·•"/>
+    <file name="working_designs_website-24_2x.png" crc="4149230119" seo="true" ref="_—.·•"/>
+    <file name="20161124_composition-crop-u2504.png" crc="3804600469" ref="_—.·•"/>
+    <file name="20161124_composition-crop-u2504_2x.png" crc="4281512224" ref="_—.·•"/>
+    <file name="message-17.gif" crc="3782866490" seo="true" ref="—_•–.•.·"/>
+    <file name="message-17_2x.gif" crc="3782866490" seo="true" ref="—_•–.•.·"/>
+    <file name="working_designs_website-25.png" crc="3772336966" seo="true" ref="—_•–.•.·"/>
+    <file name="working_designs_website-25_2x.png" crc="3772336966" seo="true" ref="—_•–.•.·"/>
+    <file name="20161125_composition-crop-u2838.png" crc="4116951204" ref="—_•–.•.·"/>
+    <file name="20161125_composition-crop-u2838_2x.png" crc="97882854" ref="—_•–.•.·"/>
+    <file name="part1.gif" crc="415771253" seo="true" ref="the-below"/>
+    <file name="part1_2x.gif" crc="415771253" seo="true" ref="the-below"/>
+    <file name="part2.gif" crc="347169272" seo="true" ref="thin-light"/>
+    <file name="part2_2x.gif" crc="347169272" seo="true" ref="thin-light"/>
+    <file name="part3.gif" crc="199801968" seo="true" ref="race-forward"/>
+    <file name="part3_2x.gif" crc="199801968" seo="true" ref="race-forward"/>
+    <file name="end_large.gif" crc="508139330" seo="true" ref="—"/>
+    <file name="end_large_2x.gif" crc="508139330" seo="true" ref="—"/>
+    <file name="start_over_button.png" crc="4036388709" seo="true" ref="—"/>
+    <file name="start_over_button_2x.png" crc="4096431466" seo="true" ref="—"/>
+    <file name="gallery_button.png" crc="4012495517" seo="true" ref="—"/>
+    <file name="gallery_button_2x.png" crc="3887581422" seo="true" ref="—"/>
+    <file name="20161103_composition.png" crc="373451804" seo="true" ref="gallery"/>
+    <file name="20161103_composition_2x.png" crc="373451804" seo="true" ref="gallery"/>
+    <file name="20161105_composition.png" crc="125988727" seo="true" ref="gallery"/>
+    <file name="20161105_composition_2x.png" crc="4078961369" seo="true" ref="gallery"/>
+    <file name="20161106_composition.png" crc="4018591988" seo="true" ref="gallery"/>
+    <file name="20161106_composition_2x.png" crc="3951290825" seo="true" ref="gallery"/>
+    <file name="20161107_composition.png" crc="3926853590" seo="true" ref="gallery"/>
+    <file name="20161107_composition_2x.png" crc="401554624" seo="true" ref="gallery"/>
+    <file name="20161109_composition.png" crc="3941731796" seo="true" ref="gallery"/>
+    <file name="20161109_composition_2x.png" crc="4018549075" seo="true" ref="gallery"/>
+    <file name="20161110_composition.png" crc="480073019" seo="true" ref="gallery"/>
+    <file name="20161110_composition_2x.png" crc="327631789" seo="true" ref="gallery"/>
+    <file name="20161111_composition.png" crc="4226096058" seo="true" ref="gallery"/>
+    <file name="20161111_composition_2x.png" crc="480883714" seo="true" ref="gallery"/>
+    <file name="20161114_composition.png" crc="503534926" seo="true" ref="gallery"/>
+    <file name="20161114_composition_2x.png" crc="186763799" seo="true" ref="gallery"/>
+    <file name="20161115_composition.png" crc="333111107" seo="true" ref="gallery"/>
+    <file name="20161115_composition_2x.png" crc="492675025" seo="true" ref="gallery"/>
+    <file name="20161116_composition.png" crc="3765110145" seo="true" ref="gallery"/>
+    <file name="20161116_composition_2x.png" crc="482222256" seo="true" ref="gallery"/>
+    <file name="20161118_composition.png" crc="3845877101" seo="true" ref="gallery"/>
+    <file name="20161118_composition_2x.png" crc="243015772" seo="true" ref="gallery"/>
+    <file name="20161121_composition.png" crc="505326544" seo="true" ref="gallery"/>
+    <file name="20161121_composition_2x.png" crc="394150929" seo="true" ref="gallery"/>
+    <file name="20161122_composition.png" crc="4099709483" seo="true" ref="gallery"/>
+    <file name="20161122_composition_2x.png" crc="3940320750" seo="true" ref="gallery"/>
+    <file name="20161123_composition.png" crc="524902552" seo="true" ref="gallery"/>
+    <file name="20161123_composition_2x.png" crc="363955864" seo="true" ref="gallery"/>
+    <file name="20161124_composition.png" crc="306631426" seo="true" ref="gallery"/>
+    <file name="20161124_composition_2x.png" crc="388085789" seo="true" ref="gallery"/>
+    <file name="20161125_composition.png" crc="501762664" seo="true" ref="gallery"/>
+    <file name="20161125_composition_2x.png" crc="245636766" seo="true" ref="gallery"/>
+    <file name="disembark_button.png" crc="145317182" seo="true" ref="dedication"/>
+    <file name="disembark_button_2x.png" crc="3777305789" seo="true" ref="dedication"/>
+  </folder>
+  <file name="index.html" crc="23725696" seo="true" mt="1481296647666" redirect="true"/>
+  <file name="dedication.html" crc="3849824604" seo="true" mt="1481299140055" redirect="true"/>
+  <file name="·_—.html" crc="190142724" seo="true" mt="1481298997456" redirect="true"/>
+  <file name="·—.html" crc="462509182" seo="true" mt="1481299007309" redirect="true"/>
+  <file name="_·•.–.html" crc="27766122" seo="true" mt="1481299014637" redirect="true"/>
+  <file name="·.-—.html" crc="3942192" seo="true" mt="1481299027285" redirect="true"/>
+  <file name="_—•.–.html" crc="515774214" seo="true" mt="1481299033876" redirect="true"/>
+  <file name="-..—.·.html" crc="3830996885" seo="true" mt="1481299048485" redirect="true"/>
+  <file name="•)_·–.html" crc="508617403" seo="true" mt="1481299002349" redirect="true"/>
+  <file name="·—.•-·.html" crc="3938839920" seo="true" mt="1481299056573" redirect="true"/>
+  <file name="•.—_).html" crc="4021934910" seo="true" mt="1481299062070" redirect="true"/>
+  <file name="_—.•-.html" crc="42514065" seo="true" mt="1481299077629" redirect="true"/>
+  <file name="(•_·–.html" crc="3870526019" seo="true" mt="1481299083100" redirect="true"/>
+  <file name="•.)_—.html" crc="150482138" seo="true" mt="1481299107996" redirect="true"/>
+  <file name="•-.(-_.html" crc="4271654158" seo="true" mt="1481299116813" redirect="true"/>
+  <file name=")–._·•.html" crc="4284756202" seo="true" mt="1481299122365" redirect="true"/>
+  <file name="_—.·•.html" crc="4068445134" seo="true" mt="1481299128686" redirect="true"/>
+  <file name="—_•–.•.·.html" crc="282720313" seo="true" mt="1481299134052" redirect="true"/>
+  <file name="the-below.html" crc="3813302221" seo="true" mt="1481298982458" redirect="true"/>
+  <file name="thin-light.html" crc="15729904" seo="true" mt="1481299038412" redirect="true"/>
+  <file name="race-forward.html" crc="4066658576" seo="true" mt="1481299068731" redirect="true"/>
+  <file name="—.html" crc="3903866795" seo="true" mt="1480693106372" redirect="true"/>
+  <file name="gallery.html" crc="3904109468" seo="true" mt="1481295493570" redirect="true"/>
+</manifest>
